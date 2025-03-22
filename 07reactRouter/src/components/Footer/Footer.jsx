@@ -1,3 +1,9 @@
+i/**
+ * The `Footer` function in this JavaScript React component renders a footer section with links to
+ * various resources, social media platforms, and legal information.
+ * @returns The `Footer` component is being returned. It contains a footer section with various links
+ * and social media icons.
+ */
 import React from 'react'
 import { Link } from 'react-router-dom';
 

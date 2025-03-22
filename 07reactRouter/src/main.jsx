@@ -1,3 +1,5 @@
+/* This code snippet is setting up a React application with routing using React Router. Here's a
+breakdown of what the code is doing: */
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'

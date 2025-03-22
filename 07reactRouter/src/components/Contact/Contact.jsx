@@ -1,3 +1,11 @@
+/**
+ * The Contact component in this JavaScript React code renders a form for users to fill in their
+ * contact information and start a conversation.
+ * @returns The Contact component is being returned. It consists of a form for users to fill in their
+ * full name, email, and telephone number to start a conversation. The form also includes a submit
+ * button. Additionally, the component displays contact information such as address, phone number, and
+ * email address for users to get in touch.
+ */
 import React from 'react'
 
 export default function Contact() {

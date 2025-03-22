@@ -1,3 +1,5 @@
+/* This code snippet is a React component named `Github` that displays information about a GitHub user.
+Here's a breakdown of what the code is doing: */
 import React from 'react'
 import { useLoaderData } from 'react-router-dom'
 

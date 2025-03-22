@@ -1,3 +1,5 @@
+/* The code snippet provided is a React functional component named `Home`. This component represents
+the homepage of a website or application. Here is a breakdown of what the code is doing: */
 import React from 'react'
 import { Link } from 'react-router-dom';
 

@@ -1,3 +1,9 @@
+/**
+ * The function `About` in this JavaScript React component displays information about the Indian
+ * cricketer Virat Kohli.
+ * @returns The `About` component is being returned, which contains JSX elements describing information
+ * about the Indian cricketer Virat Kohli.
+ */
 import React from 'react'
 
 export default function About() {

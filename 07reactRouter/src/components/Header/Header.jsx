@@ -1,3 +1,11 @@
+/**
+ * The `Header` function in this React component renders a navigation bar with logo, login and get
+ * started buttons, and menu links for Home, About, Contact, and Github.
+ * @returns The `Header` component is being returned, which contains the header structure for a website
+ * navigation bar. It includes a logo, login and get started buttons, and a navigation menu with links
+ * to Home, About, Contact, and Github pages. The navigation menu is responsive and styled with
+ * different classes based on the active state of the link.
+ */
 import React from 'react'
 import {Link, NavLink} from 'react-router-dom'
 
